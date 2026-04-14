@@ -1,7 +1,7 @@
-# Install and Configure VMWare 17 Workstation PRO for Home Lab
+# 🛠️ Install and Configure VMWare 17 Workstation PRO for Home Lab
 
 
-## Project Showcase: Virtual Infrastructure Deployment
+## 💡Project Showcase: Virtual Infrastructure Deployment
 **Objective:** This showcase demonstrates the architecture and implementation of a localized virtualization environment using **VMware Workstation 17 Pro**. The project highlights the deployment of a versatile multi-OS ecosystem, ranging from enterprise-grade directory services to specialized security and open-source platforms.
 
 ---
