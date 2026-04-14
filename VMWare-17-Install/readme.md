@@ -1,5 +1,11 @@
-#  🛡️General steps to install VM Ware into a regular PC for home practice labs. Then you are able to create and maintain VMS using multiple OS versions.
+#  🛡️These General steps to install VM Ware into a regular PC for home practice labs. Then you are able to create and maintain VMS using multiple OS versions.
 
+Within this VMWare 17 Workstation PRO Virtual environment I have built and install the following:
+
+- Windows Server 2025
+- Windows 11
+- Ubuntu Linux Client 25 
+- Kali Linux 25
 
 
 ## Select >>> Create a new VM
