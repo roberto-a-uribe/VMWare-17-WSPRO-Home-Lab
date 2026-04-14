@@ -5,4 +5,5 @@ Step 1 - Download VMWare Workstation PRO 17 iso
 
 Step 2 - 
 
-![Azure-RG-creation](Azure-RG1.png)
+![VMWare-17-Install](vmware-install1.png)
+
