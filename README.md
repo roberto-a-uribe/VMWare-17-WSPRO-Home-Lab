@@ -4,3 +4,5 @@ This is a showcase of how I setup a plain home setup of VMWare 17 Workstation PR
 Step 1 - Download VMWare Workstation PRO 17 iso
 
 Step 2 - 
+
+![Azure-RG-creation](Azure-RG1.png)
