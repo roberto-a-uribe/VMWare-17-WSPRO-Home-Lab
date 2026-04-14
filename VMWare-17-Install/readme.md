@@ -1,11 +1,8 @@
-#  🛡️These General steps to install VM Ware into a regular PC for home practice labs. Then you are able to create and maintain VMS using multiple OS versions.
+#  🛡️Technical Overview: Virtualized Home Lab Implementation
 
-Within this VMWare 17 Workstation PRO Virtual environment I have built and install the following:
 
-- Windows Server 2025
-- Windows 11
-- Ubuntu Linux Client 25 
-- Kali Linux 25
+This documentation outlines the systematic deployment of a professional-grade sandbox environment on a standard workstation. By leveraging VMware Workstation 17 Pro, I have established a high-performance virtualization layer that enables the concurrent execution and management of diverse operating systems for advanced technical practice.
+
 
 
 ## Select >>> Create a new VM
