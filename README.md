@@ -6,7 +6,7 @@
 
 ---
 
-### Environment Architecture
+### 🔐 Environment Architecture
 The setup serves as a high-fidelity sandbox designed to simulate real-world networking and administrative scenarios. Key components include:
 
 * **Infrastructure Core:** **Windows Server** configured with **Active Directory Domain Services (AD DS)** to manage centralized authentication and group policies.
