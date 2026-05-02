@@ -6,6 +6,8 @@
 
 ---
 
+### Below link is my waltkthru of the setup:
+
 ## 🛡️[Install and Configure VMWare for Home Lab ](https://github.com/roberto-a-uribe/VMWare-17-WSPRO-Home-Lab/tree/main/VMWare-17-Install)
 
 
@@ -24,7 +26,7 @@ This project covers the end-to-end lifecycle of virtual machine management, incl
 * Cross-platform interoperability within a unified hardware environment.
 
 
-### Below link is my waltkthru of the setup:
+
 
 
 
