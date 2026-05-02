@@ -6,6 +6,9 @@
 
 ---
 
+## 🛡️[Install and Configure VMWare for Home Lab ](https://github.com/roberto-a-uribe/VMWare-17-WSPRO-Home-Lab/tree/main/VMWare-17-Install)
+
+
 ### 🔐 Environment Architecture
 The setup serves as a high-fidelity sandbox designed to simulate real-world networking and administrative scenarios. Key components include:
 
@@ -24,7 +27,7 @@ This project covers the end-to-end lifecycle of virtual machine management, incl
 ### Below link is my waltkthru of the setup:
 
 
-## 🛡️[Install and Configure VMWare for Home Lab ](https://github.com/roberto-a-uribe/VMWare-17-WSPRO-Home-Lab/tree/main/VMWare-17-Install)
+
 
 
 
